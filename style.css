@@ -1,0 +1,40 @@
+.stApp{
+    background:#f8fafc;
+}
+
+[data-testid="stSidebar"]{
+    background:white;
+}
+
+[data-testid="stSidebar"] *{
+    color:black;
+}
+
+.block-container{
+    max-width:1000px;
+    margin:auto;
+}
+
+[data-testid="stChatMessage"]{
+    border-radius:15px;
+}
+
+.stButton button{
+    background:#f97316;
+    color:white;
+    border:none;
+    border-radius:10px;
+}
+
+.stTextInput input{
+    border-radius:15px;
+}
+
+textarea {
+    font-size:16px !important;
+    border-radius:12px !important;
+}
+
+.stTextArea textarea {
+    min-height:120px !important;
+}
