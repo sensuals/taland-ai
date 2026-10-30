@@ -1,0 +1,10 @@
+.env
+.env.txt
+.streamlit/secrets.toml
+boiler_db/
+boiler_db_backup_*/
+data/
+dokumen_asli/
+.venv/
+__pycache__/
+*.pyc
